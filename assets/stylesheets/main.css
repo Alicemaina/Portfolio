@@ -1,0 +1,93 @@
+#starter{
+    background-image: url(imgs/13131595_790744214393815_6057712422323434752_o.jpg);
+    height: 50%;
+    width: 100%;
+    animation-delay: up,down;
+    font-feature-settings: normal;
+    text-decoration-color: darkturquoise;
+    animation-timing-function: ease-in-out;
+    background-size: cover;
+    pointer-events: auto;
+    text-align: center;
+    padding-top: 22%;
+}
+body{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: fantasy;
+    background-color: black;
+}
+#header{
+    background-image: url(imgs/4.jpg);
+    border-image-repeat: space;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 400px;
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
+    opacity: 0.8;
+    padding-top: 10%;
+    font-family: 'Pinyon Script', cursive;
+}
+h,
+h1,
+h2,h3,p{
+    color:#FF851B;
+}
+#student{
+    display: block;
+    height: 60%;
+    width: 100%;
+}
+#sc{
+width: 50%;
+height: ;
+vertical-align: middle;
+display: table-cell;
+float: left;
+clear: both;
+}
+#text{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 60%;
+    font-size: 20px;
+}
+#work{
+    padding-top: 30%
+        
+}
+#work{
+    display: block;
+    height: 60%;
+    width: 100%;
+}
+#img{
+width: 50%;
+height: ;
+vertical-align: middle;
+display: table-cell;
+float: right;
+clear: both;
+}
+#tet2{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    padding-left: 20px;
+    position: absolute;
+    padding-top: 15%;
+    font-size: 20px;
+}
+footer{
+    background-color: dimgray;
+    position: relative;
+    bottom: -500px;
+    text-align: center;
+    padding-left: 400px;
+    font-size: 21px;
+}
