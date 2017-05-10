@@ -32,7 +32,7 @@
 #logo {
 	overflow: hidden;
 	padding: 15em 0.25em 1em 0em;
-	text-shadow: 1px 1px 0px #188FB9;
+	text-shadow: 1px 1px 0px #4B0082;
 	text-transform: uppercase;
 }
 
@@ -70,7 +70,7 @@
 	float: left;
 	margin-right: 0.12em;
 	padding: 1em 1.5em;
-	background: #178EAE;
+	background: #4B0082;
 	box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.25);
 	text-decoration: none;
 	text-shadow: 1px 1px 0px #0C749C;
@@ -142,7 +142,7 @@
 #marketing h2 {
 	padding: 0em 0em 2em 0em;
 	letter-spacing: normal;
-	text-shadow: 1px 1px 0px #1B94BD;
+	text-shadow: 1px 1px 0px #4B0082;
 	text-transform: capitalize;
 	font-size: 1.2em;
 	font-weight: bold;
